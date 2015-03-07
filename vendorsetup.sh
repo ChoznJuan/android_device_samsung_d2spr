@@ -1,2 +1,2 @@
-add_lunch_combo eos_d2spr-eng
-add_lunch_combo eos_d2spr-userdebug
+add_lunch_combo du_d2spr-eng
+add_lunch_combo du_d2spr-userdebug
